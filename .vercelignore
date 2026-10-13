@@ -1,0 +1,12 @@
+# Development & Maintenance scripts
+*.bat
+export-html.js
+make-still.js
+parse.js
+update-*.js
+clean-hero-script.js
+parsed_clients.json
+compact_tariff_db.json
+
+# Test files
+test/

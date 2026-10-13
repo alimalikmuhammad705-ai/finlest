@@ -1,0 +1,464 @@
+{
+  "summary": {
+    "totalLines": 7611,
+    "cdChangesCount": 1642,
+    "rdChangesCount": 467,
+    "acdChangesCount": 2405
+  },
+  "sampleCdChanges": [
+    [
+      "0103.9100",
+      "Weighing less than 50 kg",
+      50.0,
+      20.0
+    ],
+    [
+      "0103.9200",
+      "Weighing 50 kg or more",
+      50.0,
+      20.0
+    ],
+    [
+      "0106.3200",
+      "Psittaciformes (including parrots, parakeets, macaws",
+      0.0,
+      11.0
+    ],
+    [
+      "0301.9400",
+      "Atlantic and Pacific bluefin tunas (Thunnus thynnus,",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.1400",
+      "Atlantic salmon (Salmo salar ) and Danube salmon",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.2100",
+      "Halibut (Reinhardtius hippoglossoides, Hippoglossus",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.3300",
+      "Skipjack tuna (stripe-bellied bonito) (Katsuwonus",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.3500",
+      "Atlantic and Pacific bluefin tunas (Thunnus thynnus,",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.4300",
+      "Sardines (Sardina pilchardus, Sardinops spp .),",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.4400",
+      "Mackerel (Scomber scombrus, Scomber australasicus,",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.5100",
+      "Cod (Gadus morhua, Gadus ogac, Gadus",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.5600",
+      "Blue whitings (Micromesistius poutassou, Micromesistius",
+      10.0,
+      11.0
+    ],
+    [
+      "0302.7200",
+      "Catfish (Pangasius spp., Silurus spp., Clarias spp.,",
+      10.0,
+      11.0
+    ],
+    [
+      "0303.1300",
+      "Atlantic salmon (Salmo salar ) and Danube",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.2400",
+      "Catfish (Pangasius spp., Silurus spp., Clarias spp.,",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.3100",
+      "Halibut (Reinhardtius hippoglossoides, Hippoglossus",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.4300",
+      "Skipjack tuna (stripe-bellied bonito) (Katsuwonus",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.4500",
+      "Atlantic and pacific bluefin tunas (Thunnus thynnus,",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.5300",
+      "Sardines (Sardina pilchardus, Sardinops spp. ),",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.5400",
+      "Mackerel (Scomber scombrus Scomber australasicus,",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.6300",
+      "Cod (Gadus morhua, Gadus ogac, Gadus",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.6800",
+      "Blue whitings (Micromesistius poutassou, Micromesistius",
+      20.0,
+      11.0
+    ],
+    [
+      "0303.8400",
+      "Seabass (Dicentrarchus labrax, Dicentrarchus",
+      20.0,
+      11.0
+    ],
+    [
+      "0304.3200",
+      "Catfish (Pangasius spp., Silurus spp., Clarias spp.,",
+      20.0,
+      11.0
+    ],
+    [
+      "0304.4300",
+      "Flat fish (Pleuronectidae, Bothidae, Cynoglossidae,",
+      20.0,
+      11.0
+    ]
+  ],
+  "sampleRdChanges": [
+    [
+      "0105.1100",
+      "Fowls of the species Gallus domesticus (chicken)",
+      0.0,
+      10.0
+    ],
+    [
+      "0105.9400",
+      "Fowls of the species Gallus domesticus (chicken)",
+      105.94,
+      10.0
+    ],
+    [
+      "0106.1900",
+      "Other",
+      106.19,
+      0.0
+    ],
+    [
+      "0304.6200",
+      "Catfish (Pangasius spp., Silurus spp., Clarias spp.,",
+      304.62,
+      10.0
+    ],
+    [
+      "0305.2000",
+      "Livers, roes and milt of fish, dried, smoked, salted or in",
+      305.2,
+      10.0
+    ],
+    [
+      "0305.3100",
+      "Tilapias (Oreochromis spp .), catfish (Pangasius spp.,",
+      0.0,
+      14.0
+    ],
+    [
+      "0305.3200",
+      "Fish of the families Bregmacerotidae, Euclichthyidae,",
+      305.32,
+      5.0
+    ],
+    [
+      "0305.3900",
+      "Other",
+      305.39,
+      16.0
+    ],
+    [
+      "0305.4200",
+      "Herrings (Clupea harengus, Clupea pallasii)",
+      305.42,
+      0.0
+    ],
+    [
+      "0305.4300",
+      "Trout (Salmo trutta, Oncorhynchus mykiss,",
+      19.0,
+      305.43
+    ],
+    [
+      "0305.4400",
+      "Tilapias (Oreochromis spp .), catfish (Pangasius spp.,",
+      305.44,
+      305.44002
+    ],
+    [
+      "0305.4900",
+      "Other",
+      10.0,
+      0.0
+    ],
+    [
+      "0305.5100",
+      "Cod (Gadus morhua, Gadus ogac,Gadus",
+      305.51,
+      305.510022
+    ],
+    [
+      "0305.5200",
+      "Tilapias (Oreochromis spp.) , catfish (Pangasius spp.,",
+      305.52,
+      305.520023
+    ],
+    [
+      "0305.5300",
+      "Fish of the families Bregmacerotidae, Euclichthyidae,",
+      305.53,
+      305.530024
+    ],
+    [
+      "0305.5400",
+      "Herrings (Clupea harengus, Clupea pallasii), anchovies",
+      305.54,
+      25.0
+    ],
+    [
+      "0305.5900",
+      "Other",
+      305.59,
+      4.00305
+    ],
+    [
+      "0305.6200",
+      "Cod (Gadus morhua, Gadus ogac, Gadus",
+      305.62,
+      0.0
+    ],
+    [
+      "0305.6300",
+      "Anchovies (Engraulis spp. )",
+      305.63,
+      4.029
+    ],
+    [
+      "0305.7100",
+      "Shark fins",
+      305.71,
+      0.0
+    ],
+    [
+      "0305.7200",
+      "Fish heads, tails and maws",
+      305.72,
+      4.0
+    ],
+    [
+      "0305.7900",
+      "Other",
+      0.0,
+      305.79
+    ],
+    [
+      "0306.3500",
+      "Cold-water shrimps and prawns (Pandalus spp.,",
+      306.35,
+      10.0
+    ],
+    [
+      "0407.2100",
+      "Of fowls of the species Gallus domesticus (chicken)",
+      0.0,
+      407.21
+    ],
+    [
+      "0701.9000",
+      "Other",
+      701.9,
+      0.0
+    ]
+  ],
+  "sampleAcdChanges": [
+    [
+      "0103.9100",
+      "Weighing less than 50 kg",
+      6.0,
+      4.0
+    ],
+    [
+      "0103.9200",
+      "Weighing 50 kg or more",
+      6.0,
+      4.0
+    ],
+    [
+      "0106.3200",
+      "Psittaciformes (including parrots, parakeets, macaws",
+      0.0,
+      2.0
+    ],
+    [
+      "0207.1100",
+      "Not cut in pieces, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.1200",
+      "Not cut in pieces, frozen",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.1300",
+      "Cuts and offal, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.1400",
+      "Cuts and offal, frozen",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.2400",
+      "Not cut in pieces, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.2500",
+      "Not cut in pieces, frozen",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.2600",
+      "Cuts and offal, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.2700",
+      "Cuts and offals, frozen",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.4100",
+      "Not cut in pieces, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.4200",
+      "Not cut in pieces, frozen",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.4300",
+      "Fatty livers, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.4400",
+      "Other, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.4500",
+      "Other, frozen",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.5100",
+      "Not cut in pieces, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.5200",
+      "Not cut in pieces, frozen",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.5300",
+      "Fatty livers, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.5400",
+      "Other, fresh or chilled",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.5500",
+      "Other, frozen",
+      4.0,
+      2.0
+    ],
+    [
+      "0207.6000",
+      "Of guinea fowls",
+      4.0,
+      2.0
+    ],
+    [
+      "0208.1000",
+      "Of rabbits or hares",
+      4.0,
+      2.0
+    ],
+    [
+      "0208.3000",
+      "Of primates",
+      4.0,
+      2.0
+    ],
+    [
+      "0208.5000",
+      "Of reptiles (including snakes and turtles)",
+      4.0,
+      2.0
+    ]
+  ]
+}
